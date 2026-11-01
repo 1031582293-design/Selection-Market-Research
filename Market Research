@@ -1,0 +1,18 @@
+# Selection Market Research
+
+A personal learning project for understanding Etsy marketplace data.
+
+## What it does
+
+A read-only research tool I use for my own study of Etsy public listings. It reads publicly visible listing data only (title, price, discount, sales estimate) through the official Etsy API, in read-only mode, to learn how product pricing and demand patterns work on the marketplace.
+
+## Data usage
+
+- Public data only
+- Accessed through the official Etsy API 
+- Read-only, never writes or modifies any listing
+- Personal use, not distributed to others
+
+## Who it's for
+
+The author only, for personal research and learning.
